@@ -1,11 +1,6 @@
 //Firebase configure
 const firebaseConfig = {
-    apiKey: "AIzaSyA4CAyvqWyalFnI4Z0tgVzPUddGdiB7_9U",
-    authDomain: "authentication-10326.firebaseapp.com",
-    projectId: "authentication-10326",
-    storageBucket: "authentication-10326.appspot.com",
-    messagingSenderId: "697878623991",
-    appId: "1:697878623991:web:812cbbcc3434d1320fc5f2"
+
 };
 // //Firebase initialize
 firebase.initializeApp(firebaseConfig);
